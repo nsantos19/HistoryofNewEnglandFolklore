@@ -1,0 +1,15 @@
+{"masterPosts": [
+  {
+    "title": "Sample PDF",
+    "author": "Test Author",
+    "mainText": "Main Text",
+    "blurb":"THIS IS A BLURB ABOUT THE MAIN TEXT",
+    "link":"https://drive.google.com/file/d/1R93MaQtvrDgqz9QqUYCABS-naSX3mPQN/view?usp=sharing"},
+{
+    "title": "Never Gonna Give You Up",
+    "author": "Rick Astley",
+    "mainText": "Main Text",
+    "blurb":"THIS IS A BLURB ABOUT THE MAIN TEXT",
+    "link":"https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+}
+]}
