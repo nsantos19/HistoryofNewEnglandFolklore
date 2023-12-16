@@ -137,7 +137,7 @@ export default function Home() {
 
 
     </main >
-  <ScrollToTop smooth="True" color="#ff6584"/>
+  <ScrollToTop color="#ff6584"/>
   </ThemeProvider>
   )
 }
