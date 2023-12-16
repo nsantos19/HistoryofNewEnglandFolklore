@@ -60,11 +60,8 @@
     text-align: center;
 }
 .moonlight img{
-      position: fixed;
-    width: 100vh;
+  position: fixed;
     bottom: 0;
-    margin-bottom: -22px;
-    margin-left: -373px;
 }
 
 

@@ -104,10 +104,10 @@ export default function Home() {
   <ThemeProvider theme={theme}>
     <main className={styles.main}>
       <Menu>
-        <a id="home" className="menu-item" href="/">Home</a>
-        <a id="search" className="menu-item" href="/search">Search</a>
+        <a id="home" className="menu-item" href="/HistoryofNewEnglandFolklore">Home</a>
+        <a id="search" className="menu-item" href="/HistoryofNewEnglandFolklore/search">Search</a>
         <a id="submitWork" className="menu-item" href="https://forms.gle/CWoYzj4EFjZND7m4A">Submit</a>
-        <a id="about" className="menu-item" href="/about">About</a>
+        <a id="about" className="menu-item" href="/HistoryofNewEnglandFolklore/about">About</a>
       </Menu>
     <div className={styles.moonlight}>
     <div className={styles.moonlightAll}>
