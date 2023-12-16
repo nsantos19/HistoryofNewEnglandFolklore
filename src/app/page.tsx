@@ -62,7 +62,7 @@ export default function Home() {
   },}} onClick={()=>window.location.assign("https://forms.gle/CWoYzj4EFjZND7m4A")}>SUBMIT WORK</Button>
           </div>
         </div>
-        <Image src={moonlightSVG} alt="campfire" viewBox="7 7 10 10"/>
+        <Image src={moonlightSVG} alt="campfire"/>
       </div>
 
 
