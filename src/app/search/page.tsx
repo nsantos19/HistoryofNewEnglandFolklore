@@ -43,10 +43,10 @@ return(
   <React.Fragment>
   <div onClick={()=>window.location.assign(post.link)} style={{cursor: "pointer"}}>
     <CardContent sx={{backgroundColor:"#424153",color:"#f2f2f2"}}>
-      <Typography sx={{ fontSize: 14 ,color:"#ff6584", fontWeight:"bold"}} color="text.secondary" gutterBottom>
+      <Typography sx={{ fontSize: 14 ,color:"#f2f2f2", fontWeight:"bold"}} color="text.secondary" gutterBottom>
       {post.author}
       </Typography>
-      <Typography variant="h5" component="div">
+      <Typography sx={{color:"#ff6584"}} variant="h5" component="div">
       {post.title}
       </Typography>
       <hr/>
