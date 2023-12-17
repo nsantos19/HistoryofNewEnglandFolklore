@@ -54,13 +54,13 @@ return(
         {post.blurb}
       </Typography>
     </CardContent>
-    <CardActions sx={{backgroundColor:"#424153", color:"#f2f2f2"}}>
-      <Link className={styles.linkText} href={post.link}>Go to Project</Link>
-    </CardActions>
     </div>
   </React.Fragment>);
 }
 
+    // <CardActions sx={{backgroundColor:"#424153", color:"#f2f2f2"}}>
+    //   <Link className={styles.linkText} href={post.link}>Go to Project</Link>
+    // </CardActions>
 
 
 const CssTextField = styled(TextField)({
